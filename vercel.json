@@ -4,5 +4,11 @@
             "source": "/(.*)",
             "destination": "/index.js"
         }
+    ],
+    "routes": [
+        {
+            "source": "/(.*)",
+            "destination": "/index.js"
+        }
     ]
 }
