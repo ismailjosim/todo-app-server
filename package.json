@@ -1,6 +1,6 @@
 {
     "name": "lws-json-server-todos",
-    "description": "Example in memory todos api with json-server by Learn with Sumit",
+    "description": "Example in-memory todos API with json-server by Learn with Sumit",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
